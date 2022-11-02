@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yafinka
-- 👀 I’m interested in ancient, modern, indigenous, constructed and programming languages
-- 🌱 I’m currently learning Hittite, Spanish & R
+- 👀 I’m interested in ancient, modern and constructed languages
+- 🌱 I’m currently learning Yucatec Maya & Modern Greek
 - 📫 How to reach me www.warpgrid.de
 
 <!---
